@@ -9,3 +9,4 @@
 - NASURA (Nara Institute of Science and Technology)
 - Doraemon (Doraemon)
 - Huohuo (Honkai: Star Rail)
+- Nobita-kun(Doraemon)
