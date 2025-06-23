@@ -2,3 +2,10 @@
 
 # List of place
 - Matsushima
+- Hokkaidou
+- Izu Peninsula
+- Nara
+- Tokyo
+- Wakayama, Japan
+- Ishigaki Island
+
