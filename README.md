@@ -8,3 +8,4 @@
 - Meiji Jingu
 - Dazaifu Tenmangu
 - Itsukushima Jinja
+- Atsuta Jingu
