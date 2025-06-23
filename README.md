@@ -12,7 +12,7 @@
 - Blue gray
 - Black and gold (two-tone)
 - blonde hair
-
+- Silver
 
 
 ### Good 
