@@ -6,3 +6,4 @@
 - AOT
 - Katekyo Hitman Reborn!
 - Magi
+- Girl's Last Tour
