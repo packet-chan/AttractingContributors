@@ -6,3 +6,4 @@
 - Kyotanabe (Kyoto) / 京田辺 (京都府)
 - Wakayama
 - Umeda (Osaka)
+- 曽爾高原（奈良県）
