@@ -6,3 +6,4 @@
 - Kiyomizu-dera
 - Yatadera
 - Meiji Jingu
+- Itsukushima Jinja
