@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite characters (e.g., from anime, games, manga, novels, movies, etc.).
 
 # List of place
-- mamemame saisai
-- Gusto
+- Arikawa Hime (Secret Princess Himegoto)
+- Asuka Minato (Otome*Domain)
+- Daimon Michiko (Docter X)
+- NASURA (Nara Institute of Science and Technology)
