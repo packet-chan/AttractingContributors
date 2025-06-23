@@ -7,3 +7,4 @@
 - Yatadera
 - Meiji Jingu
 - Dazaifu Tenmangu
+- Itsukushima Jinja
