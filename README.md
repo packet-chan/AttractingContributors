@@ -9,3 +9,4 @@
 - Dazaifu Tenmangu
 - Itsukushima Jinja
 - Atsuta Jingu
+- Koami Shrine
