@@ -7,4 +7,5 @@
 - Suou Kyouhei (Riddle Joker)
 - Daimon Michiko (Docter X)
 - NASURA (Nara Institute of Science and Technology)
+- Doraemon (Doraemon)
 - Huohuo (Honkai: Star Rail)
