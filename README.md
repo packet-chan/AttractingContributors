@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What's your favourite game brand or company?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of brand or company
+- Nintendo
+- Key
