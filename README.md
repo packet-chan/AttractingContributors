@@ -3,3 +3,4 @@
 # List of brand or company
 - Nintendo
 - Key
+- Paradox Interactive
