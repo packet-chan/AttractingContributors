@@ -4,3 +4,4 @@
 - Nintendo
 - Key
 - Paradox Interactive
+- Bandai namco
