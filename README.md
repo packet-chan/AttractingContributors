@@ -4,3 +4,6 @@
 - Nintendo
 - Key
 - KONAMI
+- Supercell
+- Paradox Interactive
+- Bandai namco
