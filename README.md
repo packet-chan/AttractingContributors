@@ -14,3 +14,4 @@ Example
 - OPPO A3 5G
 -
 - iphone 13
+- iphone 8
