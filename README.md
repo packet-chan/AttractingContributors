@@ -4,3 +4,5 @@
 - Nintendo
 - Key
 - Supercell
+- Paradox Interactive
+- Bandai namco
