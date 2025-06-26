@@ -3,5 +3,6 @@
 # List of brand or company
 - Nintendo
 - Key
+- Supercell
 - Paradox Interactive
 - Bandai namco
